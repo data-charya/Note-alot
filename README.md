@@ -1,6 +1,6 @@
-# notealot
+# Note-alot
 
-A new Flutter project.
+![alt text](https://cdn.discordapp.com/attachments/701086382407549019/822722812850339850/mockup.jpg)
 
 ## Getting Started
 
